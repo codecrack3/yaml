@@ -38,6 +38,8 @@ info:
   x-preferred: true
   x-providerName: instagram.com
   x-unofficialSpec: true
+  x-code-samples: true
+  x-examples: true
 externalDocs:
   description: Instagram Developer Documentation
   url: 'https://instagram.com/developer'
